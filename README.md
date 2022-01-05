@@ -22,7 +22,7 @@ Não deve ser possível fazer saque em uma conta não existente <br>
 Não deve ser possível excluir uma conta não existente <br>
 Não deve ser possível fazer saque quando o saldo for insuficiente <br>
 
-### Instalação
+### Instalação de dependências
 
 yarn add express <br>
 yarn add nodemon -D <br>
