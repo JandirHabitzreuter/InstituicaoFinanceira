@@ -26,3 +26,4 @@ Não deve ser possível fazer saque quando o saldo for insuficiente <br>
 
 yarn add express <br>
 yarn add nodemon -D <br>
+yarn add uuid <br>
